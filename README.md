@@ -1,5 +1,5 @@
 # Stable Marriage Problem
 
-<p>Usage:</p>
-<p>StableMarriageProblem.py [input file] [output file]</p>
+<p><b>Usage:</b></p>
+<p>StableMarriageProblem.py <i>[input file] [output file]</i></p>
 
